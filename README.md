@@ -10,7 +10,7 @@ class_names=['car', 'truck', 'van', 'bus', 'pedestrian',
             ]
 ```
 
-2.添加高度属性
+2.添加高度、截断、遮挡属性
 
 3.标注视频，不是图片
 
