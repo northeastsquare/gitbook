@@ -27,3 +27,7 @@
 ![](<.gitbook/assets/image (1).png>)
 
 '9.目标遮挡严重，超过4/5，就不用标了
+
+10.目标出镜头后，选这个 switch Outside
+
+<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
