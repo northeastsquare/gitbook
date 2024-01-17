@@ -36,6 +36,6 @@
 
 ![](<.gitbook/assets/image (1).png>)
 
-12.叉车 ？
+12.叉车 标成 truck, 不标为 unknow\_unmovable
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
